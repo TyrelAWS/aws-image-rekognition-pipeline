@@ -1,4 +1,5 @@
 # aws-image-rekognition-pipeline
+![Architecture Diagram](architecture-diagram.png)
 # Serverless Image Rekognition Pipeline
 
 ## Project Overview
