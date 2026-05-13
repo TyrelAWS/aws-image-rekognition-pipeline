@@ -1,5 +1,5 @@
 # aws-image-rekognition-pipeline
-![Architecture Diagram](architecture-diagram.png)
+![Architecture Diagram](Gemini_Generated_Image_.png)
 # Serverless Image Rekognition Pipeline
 
 ## Project Overview
